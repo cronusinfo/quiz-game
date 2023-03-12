@@ -1,2 +1,2 @@
 # quiz-game
-quiz game is basic game written in python using if else statment
+quiz game is a basic game written in python using if else statment
